@@ -15,3 +15,5 @@ Main changes:
 		- rewriten from C to C++
 		- organized to modulus and functions
 		- added or removed some comments
+
+This is one of original Tilahun's matlab codes and Mullagura made an edit of the matlab code that matched the model parameter names to those in the revised paper. Mullagura also tested both of C++ and Matlab code, added a parameter sensitivity analysys (shown in Supplementary Document), and has verified the C++ code with the Matlab code.
